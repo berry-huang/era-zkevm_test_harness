@@ -24,6 +24,11 @@ use zk_evm::GenericNoopTracer;
 use zkevm_assembly::Assembly;
 
 #[test]
+fn run_fibonacci_e2e() {
+
+}
+
+#[test]
 fn run_and_try_create_witness() {
     // let asm = r#"
     //     .text
